@@ -1,2 +1,2 @@
 # hello-world
-tutorial step 1
+tutorial sat this point i have no idea what im doing.
